@@ -22,7 +22,7 @@ span {
   font-size: 64px;
   width: 300px;
   height: 100px;
-  top: 5%;
+  top: 2%;
   left: 10%;
   z-index: 1;
   text-align: center;
@@ -35,7 +35,7 @@ div {
   font-size: 24px;
   width: 200px;
   height: 100px;
-  bottom: 5%;
+  bottom: 2%;
   right: 10%;
   z-index: 1;
   text-align: center;
